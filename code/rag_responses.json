@@ -1,0 +1,58 @@
+[
+  {
+    "response_text": "Fee structure for BS Computer Science:\n- Admission Fee: $3,000 (Frequency: Once)\n- Tuition Fee: $51,650 (Frequency: Per Semester)\n- Bus Card Fee: $2,500 (Frequency: Per Semester)\n- Utility Charges: $5,000 (Frequency: Per Semester)",
+    "source": "KnowledgeGraph",
+    "rag_type": "VectorRAG",
+    "query": "fee structure for BS Computer Science",
+    "timestamp": "2026-05-05T13:15:26.577293"
+  },
+  {
+    "response_text": "The fee structure for the BS Computer Science program is as follows:\n\n- **Admission Fee**: $3,000 (Once)\n- **Tuition Fee**: $21,650 (Per Semester)\n- **Bus Card Fee**: $250 (Per Semester)\n- **Utility Charges**: $500 (Per Semester)\n\nTotal fees for the BS Computer Science program are calculated as follows:\n- Admission Fee: $3,000\n- Tuition Fees (4 semesters): 4 * $21,650 = $86,600\n- Bus Card Fees (4 semesters): 4 * $250 = $1,000\n- Utility Charges (4 semesters): 4 * $500 = $2,000\n\nTotal fees: $3,000 + $86,600 + $1,000 + $2,000 = **$92,600** per semester.",
+    "source": "KnowledgeGraph",
+    "rag_type": "GraphRAG",
+    "query": "fee structure for BS Computer Science",
+    "timestamp": "2026-05-05T13:19:07.443321"
+  },
+  {
+    "response_text": "The CS department has a faculty comprising three departments: Computer Science, Information Technology, and Software Engineering.",
+    "source": "KnowledgeGraph",
+    "rag_type": "VectorRAG",
+    "query": "CS department ki faculty kia h ?",
+    "timestamp": "2026-05-06T14:49:18.790008"
+  },
+  {
+    "response_text": "The CS department has a faculty comprising three departments: Computer Science, Information Technology, and Software Engineering.",
+    "source": "KnowledgeGraph",
+    "rag_type": "VectorRAG",
+    "query": "CS department ki faculty kia h ?",
+    "timestamp": "2026-05-06T14:49:50.418125"
+  },
+  {
+    "response_text": "The 8th semester courses in Department of CS are not explicitly listed in the provided text.",
+    "source": "KnowledgeGraph",
+    "rag_type": "VectorRAG",
+    "query": "Department of CS k 8th Semester k courses btayen",
+    "timestamp": "2026-05-06T14:52:51.847581"
+  },
+  {
+    "response_text": "Based on the information provided in the JSON data, there are no specific programs listed that require a minimum CGPA of 3.0 or higher. The programs all have different eligibility criteria and degree requirements but do not specify any GPA cutoffs for admission. Therefore, it is impossible to identify which program you're referring to based solely on this information.",
+    "source": "KnowledgeGraph",
+    "rag_type": "GraphRAG",
+    "query": "Department of CS k 8th Semester k courses btayen",
+    "timestamp": "2026-05-06T14:56:32.771277"
+  },
+  {
+    "response_text": "For the 1st semester of BS Computer Science, courses are offered over a period of 18 weeks, with 16 weeks dedicated to teaching and one to two weeks for examinations. Students must meet attendance requirements or have valid hospitalization as per university policy to appear in special mid/final exams held before the start of the next semester. If not appearing, results will be withheld until such an exam is conducted.",
+    "source": "KnowledgeGraph",
+    "rag_type": "VectorRAG",
+    "query": "Courses in the 1st semester of BS Computer Science.",
+    "timestamp": "2026-05-08T02:52:34.048051"
+  },
+  {
+    "response_text": "Not found in context.",
+    "source": "KnowledgeGraph",
+    "rag_type": "GraphRAG",
+    "query": "Courses in the 1st semester of BS Computer Science.",
+    "timestamp": "2026-05-08T02:53:00.816008"
+  }
+]

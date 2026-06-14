@@ -1,0 +1,4 @@
+code/.env
+.gradle/
+build/
+*.env
